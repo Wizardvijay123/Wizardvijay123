@@ -12,5 +12,5 @@
 - 😄 Pronouns: **what you think you will become**
 
 - ##Skills:
-- <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+- <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/flutter.png" alt="flutter"/> <img width="64" height="64" src="https://img.icons8.com/dusk/64/linux.png" alt="linux"/> 
 
