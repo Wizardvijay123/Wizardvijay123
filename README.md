@@ -8,6 +8,6 @@
 - 💬 Ask me about 
 - ⚡ Fun fact: 
 ...-->
-- 📫 How to reach me by : vijay9787321142@gmail.com 
+- 📫 Reach me by : vijay9787321142@gmail.com 
 - 😄 Pronouns: **what you think you will become**
 
