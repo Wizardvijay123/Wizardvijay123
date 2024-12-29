@@ -1,4 +1,4 @@
-## Hi there 👋, i'm vijay
+# Hi there 👋, i'm vijay
 
 
 - 🔭 I’m currently studying in MSc Computer Science
@@ -10,4 +10,7 @@
 ...-->
 - 📫 Reach me by : vijay9787321142@gmail.com 
 - 😄 Pronouns: **what you think you will become**
+
+- ##Skills:
+- <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 
