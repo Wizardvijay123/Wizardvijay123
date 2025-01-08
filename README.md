@@ -13,6 +13,8 @@
 - ## Skills :
 -  <img width="48" height="48" src="https://img.icons8.com/fluency/48/flutter.png" alt="flutter"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/python.png" alt="python"/> <img width="64" height="64" src="https://img.icons8.com/nolan/64/linux--v1.png" alt="linux--v1"/>  <img width="64" height="64" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/javascript-logo.png" alt="javascript-logo"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/html.png" alt="html"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/css3.png" alt="css3"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/sass.png" alt="sass"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/bootstrap.png" alt="bootstrap"/><img width="48" height="48" src="https://img.icons8.com/color/48/debian.png" alt="debian"/>
 
+## Tools
+
 ## Portfolio
 
 Check out my [portfolio](https://wizardvijay123.github.io/portfolio/) for more details about my work.
