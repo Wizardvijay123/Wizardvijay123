@@ -17,7 +17,7 @@
 
 ## Portfolio
 
-Check out my [portfolio](https://wizardvijay123.github.io/portfolio/) for more details about my work.
+Check out my [portfolio](https://wizardvijay123.github.io/my-portfolio/) for more details about my work.
 
 
 ## leet code activity 
