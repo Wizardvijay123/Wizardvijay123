@@ -17,8 +17,7 @@
 
 <img width="64" height="64" src="https://img.icons8.com/nolan/64/sql.png" alt="sql"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/mongo-db.png" alt="mongo-db"/>
 
-<img width="64" height="64" src="https://img.icons8.com/nolan/64/linux--v1.png" alt="linux--v1"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/git.png" alt="git"/><img width="100" height="100" src="https://img.icons8.com/clouds/100/github.png" alt="github"/>
-
+<img width="64" height="64" src="https://img.icons8.com/nolan/64/linux--v1.png" alt="linux--v1"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/omnichannel.png" alt="omnichannel"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/git.png" alt="git"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/github.png" alt="github"/>
 
 ## Portfolio
 
