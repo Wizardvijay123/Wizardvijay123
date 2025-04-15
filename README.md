@@ -14,9 +14,10 @@
 -  <img width="64" height="64" src="https://img.icons8.com/nolan/64/python.png" alt="python"/>   <img width="64" height="64" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/javascript-logo.png" alt="javascript-logo"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/html.png" alt="html"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/css3.png" alt="css3"/>
 
 - <img width="64" height="64" src="https://img.icons8.com/nolan/64/sass.png" alt="sass"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/bootstrap.png" alt="bootstrap"/> <img width="64" height="64" src="https://img.icons8.com/nolan/64/react-native.png" alt="react-native"/><img width="54" height="54" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-flutter-is-an-open-source-mobile-application-development-framework-created-by-google-logo-color-tal-revivo.png" alt="external-flutter-is-an-open-source-mobile-application-development-framework-created-by-google-logo-color-tal-revivo"/>
-- <img width="64" height="64" src="https://img.icons8.com/nolan/64/sql.png" alt="sql"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/mongo-db.png" alt="mongo-db"/>
 
-- <img width="64" height="64" src="https://img.icons8.com/nolan/64/linux--v1.png" alt="linux--v1"/>
+<img width="64" height="64" src="https://img.icons8.com/nolan/64/sql.png" alt="sql"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/mongo-db.png" alt="mongo-db"/>
+
+<img width="64" height="64" src="https://img.icons8.com/nolan/64/linux--v1.png" alt="linux--v1"/>
 
 ## Tools
 
