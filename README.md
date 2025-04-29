@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently studying in MSc Computer Science
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning nextjs
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about 
