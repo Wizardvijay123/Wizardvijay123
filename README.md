@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently studying in MSc Computer Science
-- 🌱 I’m currently learning nextjs
+- 🌱 I’m currently learning Devops <img width="28" height="28" src="https://img.icons8.com/pulsar-gradient/48/infinity.png" alt="infinity"/>
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about 
