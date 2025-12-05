@@ -1,35 +1,74 @@
-# Hi there 👋, i'm vijay
+<!-- Unique Banner -->
+<h1 align="center">✨ Vijay • Developer & DevOps Learner ✨</h1>
+<p align="center">Building powerful apps. Solving meaningful problems. Learning every day.</p>
 
+---
 
-- 🔭 I’m currently studying in MSc Computer Science
-- 🌱 I’m currently learning Devops <img width="28" height="28" src="https://img.icons8.com/pulsar-gradient/48/infinity.png" alt="infinity"/>
-<!-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about 
-- ⚡ Fun fact: 
-...-->
-- 📫 Reach me by : vijay9787321142@gmail.com 
-- 😄 Pronouns: **what you think you will become**
-- ## Skills :
-<img width="64" height="64" src="https://img.icons8.com/nolan/64/python.png" alt="python"/>   <img width="64" height="64" src="https://img.icons8.com/nolan/64/javascript-logo.png" alt="javascript-logo"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/html.png" alt="html"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/css3.png" alt="css3"/>
+## 🚀 Who Am I?
 
-<img width="64" height="64" src="https://img.icons8.com/nolan/64/sass.png" alt="sass"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/bootstrap.png" alt="bootstrap"/> <img width="64" height="64" src="https://img.icons8.com/nolan/64/react-native.png" alt="react-native"/><img width="54" height="54" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-flutter-is-an-open-source-mobile-application-development-framework-created-by-google-logo-color-tal-revivo.png" alt="external-flutter-is-an-open-source-mobile-application-development-framework-created-by-google-logo-color-tal-revivo"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/node-js.png" alt="node-js"/>
+I'm **Vijay**, a passionate **MSc Computer Science student** who enjoys creating clean, scalable web applications.  
+I love exploring **DevOps**, mastering full-stack development, and continuously improving myself through coding challenges.
 
-<img width="64" height="64" src="https://img.icons8.com/nolan/64/sql.png" alt="sql"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/mongo-db.png" alt="mongo-db"/>
+💡 *My goal is simple — become a world-class full-stack developer and build things that matter.*
 
-<img width="64" height="64" src="https://img.icons8.com/nolan/64/linux--v1.png" alt="linux--v1"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/omnichannel.png" alt="omnichannel"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/git.png" alt="git"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/github.png" alt="github"/><img width="64" height="64" src="https://img.icons8.com/doodle/48/bash.png" alt="bash"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/docker.png" alt="docker"/>
+---
 
-## Portfolio
+## ⚙️ Tech Stack I Work With
 
-Check out my [portfolio](https://wizardvijay123.github.io/my-portfolio/) for more details about my work.
+<div align="center">
+  
+### 🧠 Languages  
+<img src="https://img.icons8.com/nolan/64/python.png" width="48"/> 
+<img src="https://img.icons8.com/nolan/64/javascript-logo.png" width="48"/> 
+<img src="https://img.icons8.com/nolan/64/html.png" width="48"/> 
+<img src="https://img.icons8.com/nolan/64/css3.png" width="48"/> 
 
+### 🎨 Frontend  
+<img src="https://img.icons8.com/nolan/64/sass.png" width="48"/> 
+<img src="https://img.icons8.com/nolan/64/bootstrap.png" width="48"/> 
+<img src="https://img.icons8.com/nolan/64/react-native.png" width="48"/> 
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-flutter-is-an-open-source-mobile-application-development-framework-created-by-google-logo-color-tal-revivo.png" width="48"/>
 
-## leet code activity 
-![LeetCode Stats](https://leetcard.jacoblin.cool/vijay2025?theme=dark&font=Merienda&ext=contest)
+### 🛠 Backend & Databases  
+<img src="https://img.icons8.com/nolan/64/node-js.png" width="48"/>  
+<img src="https://img.icons8.com/nolan/64/sql.png" width="48"/>  
+<img src="https://img.icons8.com/nolan/64/mongo-db.png" width="48"/>  
 
-# My contribution 
+### 🧰 DevOps & Tools  
+<img src="https://img.icons8.com/nolan/64/linux--v1.png" width="48"/>  
+<img src="https://img.icons8.com/nolan/64/git.png" width="48"/>  
+<img src="https://img.icons8.com/nolan/64/github.png" width="48"/>  
+<img src="https://img.icons8.com/doodle/48/bash.png" width="48"/>  
+<img src="https://img.icons8.com/nolan/64/docker.png" width="48"/>
 
-[![Vijay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Wizardvijay123&bg_color=050505&color=ffffff&line=00bfff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
 
+---
 
+## 🌍 Portfolio  
+🔗 **Live Portfolio:**  
+👉 https://wizardvijay123.github.io/my-portfolio/
 
+---
+
+## 📈 LeetCode Journey
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/vijay2025?theme=dark&font=Merienda&ext=contest" />
+</p>
+
+---
+
+## 🔥 Contribution Activity  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wizardvijay123&bg_color=0d1117&color=00eaff&line=34d1ff&point=ffffff&area=true&hide_border=true" />
+</p>
+
+---
+
+## 📬 Contact  
+📧 **Email:** vijay9787321142@gmail.com  
+💭 *“What you think, you will become.”*
+
+---
+
+<h3 align="center">🌟 If you like my work, consider starring my repositories!</h3>
