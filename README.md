@@ -81,9 +81,12 @@
   <!-- GitHub Stats -->
   <div style="flex:1; min-width:300px; max-width:480px; background:#0f172a; padding:20px; border-radius:12px; text-align:center; box-shadow:0 4px 14px rgba(0,0,0,0.35);">
     <h2 style="color:#38bdf8;">📊 GitHub Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=wizardvijay123&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" style="max-width:100%; border-radius:8px;" />
-    <br/><br/>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=wizardvijay123&theme=blue-green&hide_border=false" style="max-width:100%; border-radius:8px;" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wizardvijay123&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" />
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=wizardvijay123&theme=blue-green&hide_border=false" width="100%" />
+
   </div>
 
   <!-- Top Contributed Repo -->
